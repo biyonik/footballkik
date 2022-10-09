@@ -1,0 +1,22 @@
+{
+  "name": "footballkik",
+  "version": "1.0.0",
+  "description": "Footballkik is NodeJS and SocketIO real time chat and social media application",
+  "main": "src/app.js",
+  "repository": "https://github.com/biyonik/footballkik.git",
+  "author": "ahmet <ahmet.altun60@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^3.2.4",
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "dependable": "^1.1.0",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-promise-router": "^4.1.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.6.5",
+    "path": "^0.12.7"
+  }
+}
